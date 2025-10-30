@@ -1,11 +1,7 @@
 import { Button } from "./components/ui/button";
 
 function App() {
-  return (
-    <div>
-      <Button variant="outline">dggrgr</Button>
-    </div>
-  );
+  return <Button variant="outline">dggrgr</Button>;
 }
 
 export default App;
